@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Today</title>
+      <link href="/2024/04/19/Today/"/>
+      <url>/2024/04/19/Today/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> web前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 博客 </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My Frist Blog</title>
+      <link href="/2024/04/18/hello-world/"/>
+      <url>/2024/04/18/hello-world/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title="!!!"></a>!!!</h1><h2 id="-1"><a href="#-1" class="headerlink" title="!!!"></a>!!!</h2><p><a href="https://www.cape-world.com/">广州国际先进粉体装备展览会</a><br>Welcome to CAPE website, I’m the master of this website, It’s nice to meet you all here, In this Blog, I’ll present you to the world of the powder.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
